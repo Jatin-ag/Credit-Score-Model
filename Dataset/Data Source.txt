@@ -1,0 +1,12 @@
+Dataset is publicly available at the following link:
+https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data)
+
+
+Source:
+
+Professor Dr. Hans Hofmann
+Institut f"ur Statistik und "Okonometrie
+Universit"at Hamburg
+FB Wirtschaftswissenschaften
+Von-Melle-Park 5
+2000 Hamburg 13
